@@ -1,2 +1,2 @@
-# Internship_Task_3
+# Web Development_Task_3
 TEMPERATURE CONVERTER WEBSITE
